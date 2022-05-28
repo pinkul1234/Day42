@@ -45,9 +45,9 @@ class ValidInput {
 }
 obj = new ValidInput();
 
-obj.setName("pinkul");
-obj.setEmail("sksaroj@gmail.com");
-obj.setMobileNum("91 9856458700");
-obj.setPassword("Saroj@Sahoo#22");
+obj.setName("Pinkul");
+obj.setEmail("pinkul5555@gmail.com");
+obj.setMobileNum("91 9853241386");
+obj.setPassword("Pinkul@Patra#22");
 
 console.log(obj);
